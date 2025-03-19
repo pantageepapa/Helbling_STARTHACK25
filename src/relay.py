@@ -9,6 +9,7 @@ from flask_cors import CORS
 from flasgger import Swagger
 
 from openai import OpenAI
+
 import io
 
 AZURE_SPEECH_KEY = "See https://starthack.eu/#/case-details?id=21, Case Description"
